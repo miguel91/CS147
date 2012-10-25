@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Introduction to Human Computer Interaction: CS147
 =====
 
@@ -48,3 +49,7 @@ Provides a rudimentary framework for accesing the Venues platform on the Foursqu
 * 7 - HTML5 Audio
 
 Demonstrates audio playback in mp3 and ogg formats. This is stripped down version of the Simple HTML5 Audio Player from Envato and is mobile-friendly.
+=======
+CS147App
+========
+>>>>>>> 57e791a4cc52be163c41ff529c28646b52c6ad58
